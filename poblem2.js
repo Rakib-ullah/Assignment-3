@@ -2,10 +2,10 @@
 var money = 24999;
 //write your code here
 
-if ( money >= 25000 && money <= 1000000000) {
+if ( money >= 25000 ) {
     console.log("Laptop");
 }
-else if( money >= 10000 && money < 25000 ) {
+else if( money >= 10000 ) {
     console.log("Cycle");
 }
 else if ( money < 10000 ) {
