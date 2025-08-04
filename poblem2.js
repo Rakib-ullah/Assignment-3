@@ -8,6 +8,6 @@ if ( money >= 25000 ) {
 else if( money >= 10000 ) {
     console.log("Cycle");
 }
-else if ( money < 10000 ) {
+else {
     console.log("Chocolate");
 }
